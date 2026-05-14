@@ -70,4 +70,4 @@ Open Claude Desktop → Customize → Skills → click + → Create Plugin → U
 
 Select the downloaded ZIP file. Claude Desktop handles the wrapper folder automatically.
 
-The skill is ready to use immediately. You can also install via Lawve.ai (https://lawve.ai/en/skills/en-us-legal-translation-wouter-van-den-berg) for the same one-click experience.
+The skill is ready to use immediately. You can also install via Lawve.ai (https://lawve.ai/en/skills/legal-translation-uk-english-wouter-van-den-berg) for the same one-click experience.
