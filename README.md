@@ -24,7 +24,7 @@ Translation runs as an eleven-step pipeline with automated quality gates at ever
 - **Non-Latin scripts handled like Latin ones.** Japanese, Chinese, Korean, Cyrillic, Arabic, Hebrew — all read just as cleanly.
 - **Definitions reordered alphabetically in English.** A term that sat under "E" in Hungarian ("Elidegenítési tilalom") moves to "P" in English ("Prohibition on transfer"), where the reader expects it.
 - **Headers, footers, comments and footnotes translated too.** Agreement titles, page labels, draft/confidentiality watermarks, and comment threads all come out in English.
-- **Cross-references repaired and normalised.** "Article" becomes "Section" (US default) or "Clause" (UK), "Annex" becomes "Schedule", and broken Word reference errors are resolved from context.
+- **Cross-references repaired and normalised.** "Article" becomes "Clause" (UK default) or "Section" (US), "Annex" becomes "Schedule", and broken Word reference errors are resolved from context.
 - **Word-for-word translation mistakes caught automatically.** A scanner checks the English against an avoid-list and flags common literal-translation slips before delivery.
 - **Quality gates throughout.** Automated checks run between translation batches and before final packaging — anything that fails blocks delivery.
 
