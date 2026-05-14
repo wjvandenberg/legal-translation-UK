@@ -2,6 +2,7 @@
 
 A skill for anyone needing legal documents translated into publication-ready English. Hand it a Word file in any language; get back an English `.docx` with formatting preserved, delivering notably higher quality than e.g. Legora's DeepL tool.
 
+This is the UK English default version (even though US English can be triggered on request). US English version is available here: https://github.com/wjvandenberg/legal-translation-US
 ---
 
 ## What it does
@@ -15,7 +16,7 @@ Translation runs as an eleven-step pipeline with automated quality gates at ever
 ## Why it leads to higher-quality translations
 
 - **Built-in legal vocabulary, by language and field of law.** Curated English legal lexicons (built-in dictionaries) plus per-language sub-lexicons (phrasebooks) for finance, M&A, corporate, IP, IT/SaaS, tax, litigation, employment, and more — supply the right English term every time, consistent across a long agreement.
-- **US English by default; UK English on request.** The lexicons cover both variants. Spelling, date format, and the Section-vs-Clause cross-reference convention all flip appropriately at the post-processing stage.
+- **UK English by default; US English on request.** The lexicons cover both variants. Spelling, date format, and the Section-vs-Clause cross-reference convention all flip appropriately at the post-processing stage.
 - **Track changes read correctly whether accepted *or* rejected.** Both views flow as clean English — no garbled redlines.
 - **Original-language typos don't survive.** Tracked spelling fixes are collapsed, not carried into the English.
 - **Full formatting preserved.** Bold defined terms, italics, fonts, tables, footers, and comments all come through unchanged.
